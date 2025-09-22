@@ -7,5 +7,6 @@ The purpose of this project is to analyze employee attrition trends and identify
 •	Factors influencing employee retention and performance
 
 •	Actionable findings to support HR decision-making and workforce planning
+
 This project demonstrates skills in data cleaning, manipulation, and visualization, as well as the ability to translate raw data into business-relevant insights.
 
