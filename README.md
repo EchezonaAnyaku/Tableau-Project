@@ -1,6 +1,4 @@
-# Tableau-Project
-Data-Visualisation-HR-Attrition-Tableau-Project
-
+# Data-Visualisation-HR-Attrition-Tableau-Project
 
 The purpose of this project is to analyze employee attrition trends and identify the key factors contributing to workforce turnover. By leveraging data visualization and analytics, the project provides insights into:
 •	Attrition patterns across departments, job levels, and demographics
